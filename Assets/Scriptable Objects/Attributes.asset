@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f955431b85049618f604aa0d48f6c3, type: 3}
+  m_Name: Attributes
+  m_EditorClassIdentifier: 
+  maximumHealth: 12
+  bonusHealth: 0
+  activeWeapon1: {fileID: 11400000, guid: 5d333d124415d4c45820169fc2ed9178, type: 2}
+  activeWeapon2: {fileID: 0}
+  Perks:
+  - Double Jump
+  - 
+  - 
+  healingPotions: 0
+  totalCurrency: 620
+  totalGem: 0
+  displayDmgText: 1
+  displayHealthBar: 1
+  difficultyMode: Normal
+  unlockNewItem: 0

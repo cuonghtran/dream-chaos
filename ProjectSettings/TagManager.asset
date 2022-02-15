@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Middle_Elem
+  - Terrain
+  - Enemies
+  - Collectables
+  - LevelNode
+  - HealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Player
+  - Enemies
+  - Bullet
+  - Collectables
+  - System
+  - PostProcessing
+  - FakeTiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Far Background
+    uniqueID: 485569769
+    locked: 0
+  - name: Background
+    uniqueID: 2457992091
+    locked: 0
+  - name: Foreground
+    uniqueID: 1001832805
+    locked: 0
+  - name: Panel
+    uniqueID: 1763682589
+    locked: 0

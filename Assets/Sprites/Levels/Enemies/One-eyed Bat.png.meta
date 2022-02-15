@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 70da1f901b056499ebf03c47068afd6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2755923639765021501
+    second: One-eyed Bat_0
+  - first:
+      213: -5476302050487950823
+    second: One-eyed Bat_1
+  - first:
+      213: -5262816870192305586
+    second: One-eyed Bat_2
+  - first:
+      213: -236342414215030757
+    second: One-eyed Bat_3
+  - first:
+      213: -4887634562859451940
+    second: One-eyed Bat_4
+  - first:
+      213: -2896635305423806717
+    second: One-eyed Bat_5
+  - first:
+      213: -5679014804714150471
+    second: One-eyed Bat_6
+  - first:
+      213: -2991224816759283421
+    second: One-eyed Bat_7
+  - first:
+      213: 3261404262262634138
+    second: One-eyed Bat_8
+  - first:
+      213: 4282952904934129563
+    second: One-eyed Bat_9
+  - first:
+      213: 327434888577296951
+    second: One-eyed Bat_10
+  - first:
+      213: -4553026950594731968
+    second: One-eyed Bat_11
+  - first:
+      213: 1140659827843166859
+    second: One-eyed Bat_12
+  - first:
+      213: 144431683545360044
+    second: One-eyed Bat_13
+  - first:
+      213: -2320975650886876124
+    second: One-eyed Bat_0
+  - first:
+      213: -8622932558507077537
+    second: One-eyed Bat_1
+  - first:
+      213: 6337171500706344938
+    second: One-eyed Bat_2
+  - first:
+      213: 9018205551864183741
+    second: One-eyed Bat_3
+  - first:
+      213: -8282561370083407767
+    second: One-eyed Bat_4
+  - first:
+      213: -4457492906643928174
+    second: One-eyed Bat_5
+  - first:
+      213: 8129906204201702207
+    second: One-eyed Bat_6
+  - first:
+      213: -4414101002157074561
+    second: One-eyed Bat_7
+  - first:
+      213: 8959275776215654503
+    second: One-eyed Bat_8
+  - first:
+      213: -9076046296041393746
+    second: One-eyed Bat_9
+  - first:
+      213: -1966248854066819
+    second: One-eyed Bat_10
+  - first:
+      213: 8693118672175199221
+    second: One-eyed Bat_11
+  - first:
+      213: 1411932739978262287
+    second: One-eyed Bat_12
+  - first:
+      213: -6363258804675413264
+    second: One-eyed Bat_13
+  - first:
+      213: 4857007594018426343
+    second: One-eyed Bat_14
+  - first:
+      213: -2959925157939426995
+    second: One-eyed Bat_15
+  - first:
+      213: 4621308858307220617
+    second: One-eyed Bat_16
+  - first:
+      213: -4617382896321239469
+    second: One-eyed Bat_17
+  - first:
+      213: 3081353269977154689
+    second: One-eyed Bat_18
+  - first:
+      213: 2261040991019847033
+    second: One-eyed Bat_19
+  - first:
+      213: -3946830253337174325
+    second: One-eyed Bat_20
+  - first:
+      213: -3496814214173349380
+    second: One-eyed Bat_21
+  - first:
+      213: -9009736298231648453
+    second: One-eyed Bat_22
+  - first:
+      213: -213376491279032980
+    second: One-eyed Bat_23
+  - first:
+      213: -5266739904242481741
+    second: One-eyed Bat_24
+  - first:
+      213: -3953133361985626596
+    second: One-eyed Bat_25
+  - first:
+      213: 6034786992630035394
+    second: One-eyed Bat_26
+  - first:
+      213: 6779742237163111655
+    second: One-eyed Bat_27
+  - first:
+      213: 5843880555377496768
+    second: One-eyed Bat_28
+  - first:
+      213: 9084494489714407739
+    second: One-eyed Bat_29
+  - first:
+      213: -1076052369555524216
+    second: One-eyed Bat_30
+  - first:
+      213: 3745971865306463005
+    second: One-eyed Bat_31
+  - first:
+      213: 4542007827821710266
+    second: One-eyed Bat_32
+  - first:
+      213: 5714993656286327516
+    second: One-eyed Bat_33
+  - first:
+      213: -4479861996238003469
+    second: One-eyed Bat_34
+  - first:
+      213: -3114555824775965836
+    second: One-eyed Bat_35
+  - first:
+      213: -5778954791444031695
+    second: One-eyed Bat_36
+  - first:
+      213: 3065819767848907190
+    second: One-eyed Bat_37
+  - first:
+      213: 1703507763355018086
+    second: One-eyed Bat_38
+  - first:
+      213: -8293371475155844730
+    second: One-eyed Bat_39
+  - first:
+      213: -4264924888163662688
+    second: One-eyed Bat_40
+  - first:
+      213: 6224408467639370140
+    second: One-eyed Bat_14
+  - first:
+      213: 6324975715349499520
+    second: One-eyed Bat_15
+  - first:
+      213: -8825721773702084043
+    second: One-eyed Bat_16
+  - first:
+      213: 6639562048942562987
+    second: One-eyed Bat_17
+  - first:
+      213: 8373199058264579097
+    second: One-eyed Bat_18
+  - first:
+      213: 7622745176816395071
+    second: One-eyed Bat_19
+  - first:
+      213: -3299980264367087444
+    second: One-eyed Bat_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: One-eyed Bat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4248e8c41fc3acfd0800000000000000
+      internalID: -2320975650886876124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5019083680355880800000000000000
+      internalID: -8622932558507077537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefa45477e722f750800000000000000
+      internalID: 6337171500706344938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf15e3b2a172d70800000000000000
+      internalID: 9018205551864183741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9684ec9115e6e0d80800000000000000
+      internalID: -8282561370083407767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4aa671ddc322c0800000000000000
+      internalID: -4457492906643928174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33dfae5e9a33d070800000000000000
+      internalID: 8129906204201702207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775bb38686fdb2c0800000000000000
+      internalID: -4414101002157074561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760a816a9ddb55c70800000000000000
+      internalID: 8959275776215654503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f37f0bf76b0280800000000000000
+      internalID: -9076046296041393746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79638305b309fff0800000000000000
+      internalID: -1966248854066819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3715dcf5924a870800000000000000
+      internalID: 8693118672175199221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f525a851389310800000000000000
+      internalID: 1411932739978262287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf175c4d921b7a0800000000000000
+      internalID: -6363258804675413264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c910492e58a816650800000000000000
+      internalID: 6224408467639370140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0166e6e3d6c750800000000000000
+      internalID: 6324975715349499520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8e08beccb48580800000000000000
+      internalID: -8825721773702084043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baed26f6186742c50800000000000000
+      internalID: 6639562048942562987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cde7d2e24933470800000000000000
+      internalID: 8373199058264579097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a67de95e69c960800000000000000
+      internalID: 7622745176816395071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One-eyed Bat_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a9900f6d1432d0800000000000000
+      internalID: -3299980264367087444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

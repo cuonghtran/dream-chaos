@@ -1,0 +1,2731 @@
+fileFormatVersion: 2
+guid: 79cb8dbf031a1431598fdd77703dd630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1148641851954946747
+    second: Base_Idle_0
+  - first:
+      213: -924753957862646909
+    second: Base_Idle_1
+  - first:
+      213: 8775667330372778394
+    second: Base_Idle_2
+  - first:
+      213: 4993527033126984374
+    second: Base_Idle_3
+  - first:
+      213: 7092587978370065002
+    second: Base_Attack_0
+  - first:
+      213: -4223865865932290927
+    second: Base_Attack_1
+  - first:
+      213: 6872779203828728672
+    second: Player_Animation_Sheet_6
+  - first:
+      213: 5777715189819555984
+    second: Base_Dead_0
+  - first:
+      213: -8628361924077999014
+    second: Base_Dead_1
+  - first:
+      213: -8800234373477767299
+    second: Base_Dead_2
+  - first:
+      213: 8793936219414762544
+    second: Blade_Idle_0
+  - first:
+      213: 3917052252380531386
+    second: Blade_Idle_1
+  - first:
+      213: 1189789896459379030
+    second: Blade_Idle_2
+  - first:
+      213: 4760689016126767631
+    second: Blade_Idle_3
+  - first:
+      213: -5452706612627361949
+    second: Blade_Walk_0
+  - first:
+      213: -5077847139496508250
+    second: Blade_Walk_1
+  - first:
+      213: 8028748279179862322
+    second: Blade_Walk_2
+  - first:
+      213: 9113424042830898407
+    second: Blade_Walk_3
+  - first:
+      213: 7888847827173650135
+    second: Blade_Walk_4
+  - first:
+      213: 6373596911763665464
+    second: Blade_Walk_5
+  - first:
+      213: -4682214274058273497
+    second: Blade_Walk_6
+  - first:
+      213: 2938928055367657514
+    second: Blade_Walk_7
+  - first:
+      213: -7888094188569531638
+    second: Blade_Attack_0
+  - first:
+      213: 1691332330749982877
+    second: Blade_Attack_1
+  - first:
+      213: 8856818316397471379
+    second: Blade_Attack_2
+  - first:
+      213: 1334003555865916527
+    second: Blade_Attack_3
+  - first:
+      213: 7103123006393451262
+    second: Blade_Attack_4
+  - first:
+      213: 8640822009021855351
+    second: Blade_Attack_5
+  - first:
+      213: 6953578002370716780
+    second: Blade_Attack_6
+  - first:
+      213: -2353956854833920981
+    second: Blade_WalkAttack_0
+  - first:
+      213: 2915468089601260614
+    second: Blade_WalkAttack_1
+  - first:
+      213: 7696224224242593475
+    second: Blade_WalkAttack_2
+  - first:
+      213: 3925936097692194405
+    second: Blade_WalkAttack_3
+  - first:
+      213: -2723661729396696772
+    second: Blade_WalkAttack_4
+  - first:
+      213: -5036696178905986031
+    second: Blade_WalkAttack_5
+  - first:
+      213: -5973049205262226828
+    second: Blade_WalkAttack_6
+  - first:
+      213: -8546407024366035845
+    second: Blade_WalkAttack_7
+  - first:
+      213: 2841640930232665665
+    second: Blade_JumpAttack_0
+  - first:
+      213: 1119890280382873510
+    second: Blade_JumpAttack_1
+  - first:
+      213: -7284556823899628779
+    second: Blade_JumpAttack_2
+  - first:
+      213: 4950838001247268142
+    second: Blade_JumpAttack_3
+  - first:
+      213: -4727867168331939960
+    second: Blade_JumpAttack_4
+  - first:
+      213: -7508031118737149168
+    second: Blade_JumpAttack_5
+  - first:
+      213: -8583969467508701315
+    second: Blade_JumpAttack_6
+  - first:
+      213: -2854872118707211714
+    second: MiniBomb_Idle_0
+  - first:
+      213: -4295965888138284868
+    second: MiniBomb_Idle_1
+  - first:
+      213: 4746660166046036271
+    second: MiniBomb_Idle_2
+  - first:
+      213: -453679584602578093
+    second: MiniBomb_Idle_3
+  - first:
+      213: -1211870200546185559
+    second: MiniBomb_Attack_0
+  - first:
+      213: -6037133144004556792
+    second: MiniBomb_Attack_1
+  - first:
+      213: 7206504773995842648
+    second: MiniBomb_Attack_2
+  - first:
+      213: 3103712854391158231
+    second: MiniBomb_JumpAttack_0
+  - first:
+      213: 2515632815226293909
+    second: MiniBomb_JumpAttack_1
+  - first:
+      213: 5044480911399877577
+    second: MiniBomb_JumpAttack_2
+  - first:
+      213: -2303926210114543882
+    second: MiniBomb_Walk_0
+  - first:
+      213: 7458683283177324329
+    second: MiniBomb_Walk_1
+  - first:
+      213: -6727534277906740074
+    second: MiniBomb_Walk_2
+  - first:
+      213: -1300617131356018536
+    second: MiniBomb_Walk_3
+  - first:
+      213: -5305811004686243085
+    second: MiniBomb_Walk_4
+  - first:
+      213: 9091488227868130728
+    second: MiniBomb_Walk_5
+  - first:
+      213: 305180117232296442
+    second: MiniBomb_Walk_6
+  - first:
+      213: -3765113509769633311
+    second: MiniBomb_Walk_7
+  - first:
+      213: -7346681969614598248
+    second: PlasmaGun_Idle_0
+  - first:
+      213: 2701871042569375104
+    second: PlasmaGun_Idle_1
+  - first:
+      213: 7617686174465693967
+    second: PlasmaGun_Idle_2
+  - first:
+      213: 6338594238661531363
+    second: PlasmaGun_Idle_3
+  - first:
+      213: 306491678141832627
+    second: PlasmaGun_Attack_0
+  - first:
+      213: 4698495031030497351
+    second: PlasmaGun_Attack_1
+  - first:
+      213: 5239456435425237546
+    second: PlasmaGun_JumpAttack_0
+  - first:
+      213: 3611614379225017274
+    second: PlasmaGun_JumpAttack_1
+  - first:
+      213: -6587170314122745366
+    second: PlasmaGun_Walk_0
+  - first:
+      213: 314436769830292881
+    second: PlasmaGun_Walk_1
+  - first:
+      213: -4486500438055890510
+    second: PlasmaGun_Walk_2
+  - first:
+      213: -2879009450361412758
+    second: PlasmaGun_Walk_3
+  - first:
+      213: -5740141490512069052
+    second: PlasmaGun_Walk_4
+  - first:
+      213: 8242123917087470909
+    second: PlasmaGun_Walk_5
+  - first:
+      213: -7496042788172798166
+    second: PlasmaGun_Walk_6
+  - first:
+      213: -3769781212155857889
+    second: PlasmaGun_Walk_7
+  - first:
+      213: 6241024078266519658
+    second: Shuriken_Idle_0
+  - first:
+      213: -130573856483220885
+    second: Shuriken_Idle_1
+  - first:
+      213: -3386777937873132240
+    second: Shuriken_Idle_2
+  - first:
+      213: 1724251229408431247
+    second: Shuriken_Idle_3
+  - first:
+      213: -1477947422097504708
+    second: Shuriken_Attack_0
+  - first:
+      213: -3345592506341816573
+    second: Shuriken_Attack_1
+  - first:
+      213: -8015492401133622148
+    second: Shuriken_Jump_0
+  - first:
+      213: -1062879981561731193
+    second: Shuriken_Jump_1
+  - first:
+      213: 3750424318231007077
+    second: Shuriken_Walk_0
+  - first:
+      213: -7483024481095857170
+    second: Shuriken_Walk_1
+  - first:
+      213: -8984631911239617976
+    second: Shuriken_Walk_2
+  - first:
+      213: -964711954016533271
+    second: Shuriken_Walk_3
+  - first:
+      213: 1054289265139377262
+    second: Shuriken_Walk_4
+  - first:
+      213: 5211410723386502974
+    second: Shuriken_Walk_5
+  - first:
+      213: 5933757446101727394
+    second: Shuriken_Walk_6
+  - first:
+      213: 7720858661278469350
+    second: Shuriken_Walk_7
+  - first:
+      213: -5144041679239842649
+    second: Player_Animation_Sheet_94
+  - first:
+      213: -3372381521162914873
+    second: Player_Animation_Sheet_95
+  - first:
+      213: 8710614371170177075
+    second: Player_Animation_Sheet_0
+  - first:
+      213: -7267652048004997883
+    second: Player_Animation_Sheet_1
+  - first:
+      213: 4982050384810114161
+    second: Player_Animation_Sheet_2
+  - first:
+      213: -6675244540830506036
+    second: Player_Animation_Sheet_3
+  - first:
+      213: 4060915534804829912
+    second: Player_Animation_Sheet_4
+  - first:
+      213: -2127324128330682341
+    second: Player_Animation_Sheet_5
+  - first:
+      213: -5741006952086686527
+    second: Player_Animation_Sheet_6
+  - first:
+      213: 5789589881628833831
+    second: Player_Animation_Sheet_7
+  - first:
+      213: -7566032142022459694
+    second: Player_Animation_Sheet_8
+  - first:
+      213: -1143199892299351413
+    second: Player_Animation_Sheet_9
+  - first:
+      213: 1915168618552298678
+    second: Player_Animation_Sheet_10
+  - first:
+      213: 2632819984109637237
+    second: Player_Animation_Sheet_11
+  - first:
+      213: -1121163346162739226
+    second: Player_Animation_Sheet_12
+  - first:
+      213: -6817381460497752295
+    second: Player_Animation_Sheet_13
+  - first:
+      213: 3161692185238721692
+    second: Player_Animation_Sheet_14
+  - first:
+      213: 3645952508752563748
+    second: Player_Animation_Sheet_15
+  - first:
+      213: 3569599970897966534
+    second: Player_Animation_Sheet_16
+  - first:
+      213: 8953229775890307578
+    second: Player_Animation_Sheet_17
+  - first:
+      213: 8779356097132342110
+    second: Player_Animation_Sheet_18
+  - first:
+      213: 5111693490263989362
+    second: Player_Animation_Sheet_19
+  - first:
+      213: 2429782434763996742
+    second: Player_Animation_Sheet_20
+  - first:
+      213: -154457108974221943
+    second: Player_Animation_Sheet_21
+  - first:
+      213: -1728516678237336730
+    second: Player_Animation_Sheet_22
+  - first:
+      213: 6468606238048651346
+    second: Player_Animation_Sheet_23
+  - first:
+      213: 1185376635282569659
+    second: Player_Animation_Sheet_24
+  - first:
+      213: -775634779590033951
+    second: Player_Animation_Sheet_25
+  - first:
+      213: 4121186220950883804
+    second: Player_Animation_Sheet_26
+  - first:
+      213: -8980852472739625440
+    second: Player_Animation_Sheet_27
+  - first:
+      213: 1403188204246227521
+    second: Player_Animation_Sheet_28
+  - first:
+      213: -4323579562396696290
+    second: Player_Animation_Sheet_29
+  - first:
+      213: -2421030644868438207
+    second: Player_Animation_Sheet_30
+  - first:
+      213: -9064091552447146245
+    second: Player_Animation_Sheet_31
+  - first:
+      213: -4027455080059633268
+    second: Player_Animation_Sheet_32
+  - first:
+      213: 595825140692716641
+    second: Player_Animation_Sheet_33
+  - first:
+      213: -2678043885060617856
+    second: Player_Animation_Sheet_34
+  - first:
+      213: -592101663169886347
+    second: Player_Animation_Sheet_35
+  - first:
+      213: -3221745659716989311
+    second: Player_Animation_Sheet_36
+  - first:
+      213: 4865582873276474078
+    second: Player_Animation_Sheet_37
+  - first:
+      213: 1598545720688796549
+    second: Player_Animation_Sheet_38
+  - first:
+      213: -1760153494891072972
+    second: Player_Animation_Sheet_39
+  - first:
+      213: -1728330795827097575
+    second: Player_Animation_Sheet_40
+  - first:
+      213: -2719548149310636866
+    second: Player_Animation_Sheet_41
+  - first:
+      213: 4860308980122772034
+    second: Player_Animation_Sheet_42
+  - first:
+      213: 6406161410437503093
+    second: Player_Animation_Sheet_43
+  - first:
+      213: 697454588361760778
+    second: Player_Animation_Sheet_44
+  - first:
+      213: -2369924111458907623
+    second: Player_Animation_Sheet_45
+  - first:
+      213: -3817419216802192265
+    second: Player_Animation_Sheet_46
+  - first:
+      213: 7313609309682568249
+    second: Player_Animation_Sheet_47
+  - first:
+      213: -4585247629416331664
+    second: Player_Animation_Sheet_48
+  - first:
+      213: 5714133078252041795
+    second: Player_Animation_Sheet_49
+  - first:
+      213: -1319134634527966105
+    second: Player_Animation_Sheet_50
+  - first:
+      213: -1371418494193128328
+    second: Player_Animation_Sheet_51
+  - first:
+      213: 1166852559323094190
+    second: Player_Animation_Sheet_52
+  - first:
+      213: 6664271168442627732
+    second: Player_Animation_Sheet_53
+  - first:
+      213: 6376600159635384824
+    second: Player_Animation_Sheet_54
+  - first:
+      213: -5381904186918068470
+    second: Player_Animation_Sheet_55
+  - first:
+      213: -2870422423359821667
+    second: Player_Animation_Sheet_56
+  - first:
+      213: 641449019570083069
+    second: Player_Animation_Sheet_57
+  - first:
+      213: -4361873005454058899
+    second: Player_Animation_Sheet_58
+  - first:
+      213: 6075848594719191544
+    second: Player_Animation_Sheet_59
+  - first:
+      213: -8278579531325873400
+    second: Player_Animation_Sheet_60
+  - first:
+      213: -6382448947824108743
+    second: Player_Animation_Sheet_61
+  - first:
+      213: -951326291416174138
+    second: Player_Animation_Sheet_62
+  - first:
+      213: -2460581349222073137
+    second: Player_Animation_Sheet_63
+  - first:
+      213: 5420068074177183084
+    second: Player_Animation_Sheet_64
+  - first:
+      213: 3365913478912416790
+    second: Player_Animation_Sheet_65
+  - first:
+      213: 7868405757705694216
+    second: Player_Animation_Sheet_66
+  - first:
+      213: -8760777638412881705
+    second: Player_Animation_Sheet_67
+  - first:
+      213: -1523256583795862997
+    second: Player_Animation_Sheet_68
+  - first:
+      213: 7778462777755201206
+    second: Player_Animation_Sheet_69
+  - first:
+      213: 4803438171035943300
+    second: Player_Animation_Sheet_70
+  - first:
+      213: -6067955013523137548
+    second: Player_Animation_Sheet_71
+  - first:
+      213: 172940240323536034
+    second: Player_Animation_Sheet_72
+  - first:
+      213: 736109455987297579
+    second: Player_Animation_Sheet_73
+  - first:
+      213: -3166000042362984598
+    second: Player_Animation_Sheet_74
+  - first:
+      213: -7900460673285222955
+    second: Player_Animation_Sheet_75
+  - first:
+      213: 8836304436411603759
+    second: Player_Animation_Sheet_76
+  - first:
+      213: -5799650914389378925
+    second: Player_Animation_Sheet_77
+  - first:
+      213: -1209171933420693717
+    second: Player_Animation_Sheet_78
+  - first:
+      213: -4074482933885353829
+    second: Player_Animation_Sheet_79
+  - first:
+      213: -5972150456152990657
+    second: Player_Animation_Sheet_80
+  - first:
+      213: -3622717981339872783
+    second: Player_Animation_Sheet_81
+  - first:
+      213: 170106266499022901
+    second: Player_Animation_Sheet_82
+  - first:
+      213: 662820684732264948
+    second: Player_Animation_Sheet_83
+  - first:
+      213: -4213753443257023499
+    second: Player_Animation_Sheet_84
+  - first:
+      213: 8864313685611152166
+    second: Player_Animation_Sheet_85
+  - first:
+      213: -8890220301671670466
+    second: Player_Animation_Sheet_86
+  - first:
+      213: 1631974360786754773
+    second: Player_Animation_Sheet_87
+  - first:
+      213: 3991914087885073094
+    second: Player_Animation_Sheet_88
+  - first:
+      213: -3214063137450875534
+    second: Player_Animation_Sheet_89
+  - first:
+      213: -7584549374847301761
+    second: Player_Animation_Sheet_90
+  - first:
+      213: -2029018779920204844
+    second: Player_Animation_Sheet_91
+  - first:
+      213: 5550889899824125181
+    second: Player_Animation_Sheet_92
+  - first:
+      213: 4149431180771565851
+    second: Player_Animation_Sheet_93
+  - first:
+      213: 903828216996626509
+    second: Player_Animation_Sheet_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 521
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d141842543f00f0800000000000000
+      internalID: -1148641851954946747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 521
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd5f4cc2d9a23f0800000000000000
+      internalID: -924753957862646909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 521
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99bed501fe69c970800000000000000
+      internalID: 8775667330372778394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 521
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba18d931629c4540800000000000000
+      internalID: 4993527033126984374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 521
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6224fc203fed6260800000000000000
+      internalID: 7092587978370065002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 521
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194453abf50d165c0800000000000000
+      internalID: -4223865865932290927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 529
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06347e7b544016f50800000000000000
+      internalID: 6872779203828728672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 474
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.267, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c29e7a519e2050800000000000000
+      internalID: 5777715189819555984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 474
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.267, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c23d98b86e14880800000000000000
+      internalID: -8628361924077999014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 474
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.264, y: 0.064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77eca486794fd580800000000000000
+      internalID: -8800234373477767299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 474
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.63793105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03498a736665a0a70800000000000000
+      internalID: 8793936219414762544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 474
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba09c5254a2c5630800000000000000
+      internalID: 3917052252380531386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 474
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.63793105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516fc76b9bf28010800000000000000
+      internalID: 1189789896459379030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 474
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.63793105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02075cdf6d511240800000000000000
+      internalID: 4760689016126767631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 424
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f2ce9b9381454b0800000000000000
+      internalID: -5452706612627361949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 424
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c3922eecd789b0800000000000000
+      internalID: -5077847139496508250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 424
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316b839508db6f60800000000000000
+      internalID: 8028748279179862322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 424
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a078c1e2697e70800000000000000
+      internalID: 9113424042830898407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 424
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2cc94d41da7d60800000000000000
+      internalID: 7888847827173650135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 424
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832333b5f90937850800000000000000
+      internalID: 6373596911763665464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 424
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d3e78dcee650fb0800000000000000
+      internalID: -4682214274058273497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 424
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286e98ce7b29c820800000000000000
+      internalID: 2938928055367657514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 374
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.63793105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b6d7fd02cd78290800000000000000
+      internalID: -7888094188569531638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 374
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5862069, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987c733bc1d87710800000000000000
+      internalID: 1691332330749982877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 374
+        width: 23
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3966b05555db9ea70800000000000000
+      internalID: 8856818316397471379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 373
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.1851852, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64fe7c8a25538210800000000000000
+      internalID: 1334003555865916527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 374
+        width: 49
+        height: 31
+      alignment: 9
+      pivot: {x: 0.20408162, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28cf78dbc539260800000000000000
+      internalID: 7103123006393451262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 373
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.23255813, y: 0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ff1f06dd5ae770800000000000000
+      internalID: 8640822009021855351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 373
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.23255813, y: 0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e64df952108060800000000000000
+      internalID: 6953578002370716780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 324
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.66071427, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24470b56b0155fd0800000000000000
+      internalID: -2353956854833920981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 324
+        width: 29
+        height: 38
+      alignment: 9
+      pivot: {x: 0.67241377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7baad7c2d57820800000000000000
+      internalID: 2915468089601260614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 324
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce6cb5d72b7eca60800000000000000
+      internalID: 7696224224242593475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 324
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.23148148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56693d1941abb7630800000000000000
+      internalID: 3925936097692194405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 324
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.17045455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39dbf2761c933ad0800000000000000
+      internalID: -2723661729396696772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 324
+        width: 42
+        height: 31
+      alignment: 9
+      pivot: {x: 0.27380952, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ccdb6c28f0a1ab0800000000000000
+      internalID: -5036696178905986031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 324
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.19736843, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6a66f4677b1da0800000000000000
+      internalID: -5973049205262226828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_WalkAttack_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 324
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.66071427, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c52c69710156980800000000000000
+      internalID: -8546407024366035845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468ab1de598f6720800000000000000
+      internalID: 2841640930232665665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 272
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af32adc646aa8f00800000000000000
+      internalID: 1119890280382873510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 272
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b9055f92e08ea90800000000000000
+      internalID: -7284556823899628779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 272
+        width: 54
+        height: 42
+      alignment: 9
+      pivot: {x: 0.21296297, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d29d47ee8e4b440800000000000000
+      internalID: 4950838001247268142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 272
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.18478261, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb7561cdd336eb0800000000000000
+      internalID: -4727867168331939960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 272
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2125, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013f71d0a7d1ec790800000000000000
+      internalID: -7508031118737149168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_JumpAttack_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2125, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d774856cf3d9fd880800000000000000
+      internalID: -8583969467508701315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e323a4d0fe47168d0800000000000000
+      internalID: -2854872118707211714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 232
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0725629c9a164c0800000000000000
+      internalID: -4295965888138284868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 232
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21bbaaa5468fd140800000000000000
+      internalID: 4746660166046036271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 232
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353aaed42d434b9f0800000000000000
+      internalID: -453679584602578093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 232
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.39999998, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae209e29729e2fe0800000000000000
+      internalID: -1211870200546185559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 232
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4166667, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080fd1446bc73ca0800000000000000
+      internalID: -6037133144004556792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 232
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccd2609e5a20460800000000000000
+      internalID: 7206504773995842648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_JumpAttack_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d57cca956a921b20800000000000000
+      internalID: 3103712854391158231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_JumpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 228
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e01e097b259e220800000000000000
+      internalID: 2515632815226293909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_JumpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 228
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7a3089a8910640800000000000000
+      internalID: 5044480911399877577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 191
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1961915fc600e0800000000000000
+      internalID: -2303926210114543882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 191
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbde1ade0928760800000000000000
+      internalID: 7458683283177324329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 191
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cca1fd73ff2a2a0800000000000000
+      internalID: -6727534277906740074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898acb82c9743fde0800000000000000
+      internalID: -1300617131356018536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 191
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa615ca009fd56b0800000000000000
+      internalID: -5305811004686243085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 191
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb9bddf547b2e70800000000000000
+      internalID: 9091488227868130728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a42023b73c3400800000000000000
+      internalID: 305180117232296442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBomb_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 191
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e128271631afbbc0800000000000000
+      internalID: -3765113509769633311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fca5b4ca75b0a90800000000000000
+      internalID: -7346681969614598248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 151
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0349e569fe7520800000000000000
+      internalID: 2701871042569375104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 151
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099e67273577b960800000000000000
+      internalID: 7617686174465693967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 151
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e612c270e537f750800000000000000
+      internalID: 6338594238661531363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 151
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdd142be80e04400800000000000000
+      internalID: 306491678141832627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 151
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c2874658643140800000000000000
+      internalID: 4698495031030497351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_JumpAttack_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 148
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.35416666, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad7a14ed946b840800000000000000
+      internalID: 5239456435425237546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_JumpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 148
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb666b84280f1230800000000000000
+      internalID: 3611614379225017274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36363637, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae927b7ef7ba594a0800000000000000
+      internalID: -6587170314122745366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4166667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4e02839a1d5400800000000000000
+      internalID: 314436769830292881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 103
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15b014f9fbcb1c0800000000000000
+      internalID: -4486500438055890510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6327369824bb08d0800000000000000
+      internalID: -2879009450361412758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 103
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44efb891abbe650b0800000000000000
+      internalID: -5740141490512069052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 103
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4615385, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35ffb0b808e16270800000000000000
+      internalID: 8242123917087470909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 103
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e4d5ccc4b8f790800000000000000
+      internalID: -7496042788172798166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaGun_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 103
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143280f5fb0fabc0800000000000000
+      internalID: -3769781212155857889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 58
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a605cb335529c9650800000000000000
+      internalID: 6241024078266519658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 58
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b626d53f4cb103ef0800000000000000
+      internalID: -130573856483220885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 58
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03521ffc86fbff0d0800000000000000
+      internalID: -3386777937873132240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 58
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8b609b55cde710800000000000000
+      internalID: 1724251229408431247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 58
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368c2d66a64d7be0800000000000000
+      internalID: -1477947422097504708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 58
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.36666667, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307894857511291d0800000000000000
+      internalID: -3345592506341816573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 55
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4318182, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c669a012043c090800000000000000
+      internalID: -8015492401133622148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 55
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a324c944ef31f0800000000000000
+      internalID: -1062879981561731193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f452dfb0f2c0430800000000000000
+      internalID: 3750424318231007077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebcab691e4f62890800000000000000
+      internalID: -7483024481095857170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427cec11ec205380800000000000000
+      internalID: -8984631911239617976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4854ec697ac92f0800000000000000
+      internalID: -964711954016533271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 15
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e323308691ae00800000000000000
+      internalID: 1054289265139377262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 15
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6086957, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2d121176a25840800000000000000
+      internalID: 5211410723386502974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 15
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8f83675f0f85250800000000000000
+      internalID: 5933757446101727394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 15
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5263158, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec408aab00062b60800000000000000
+      internalID: 7720858661278469350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 458
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4fa17d851bc98b0800000000000000
+      internalID: -5144041679239842649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Animation_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 94
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33ef7cfd4e231d0800000000000000
+      internalID: -3372381521162914873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

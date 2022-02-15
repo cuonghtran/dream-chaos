@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 4a6216a62683c4790a35231f737d5eaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4827911770299958654
+    second: Player_Blade_Attack_0
+  - first:
+      213: -4312677185764745804
+    second: Player_Blade_Attack_1
+  - first:
+      213: 7156478649446205838
+    second: Player_Blade_Attack_2
+  - first:
+      213: 6566692540208333326
+    second: Player_Blade_Attack_3
+  - first:
+      213: 7430705830886057101
+    second: Player_Blade_Attack_4
+  - first:
+      213: -4366034424823915594
+    second: Player_Blade_Attack_5
+  - first:
+      213: 8708560881083867094
+    second: Player_Blade_Attack_6
+  - first:
+      213: -9160714681608709149
+    second: Player_Blade_Attack_7
+  - first:
+      213: -2774211100381839174
+    second: Player_Blade_Attack_8
+  - first:
+      213: -2803594285825474604
+    second: Player_Blade_Attack_0
+  - first:
+      213: -7370977369180924121
+    second: Player_Blade_Attack_1
+  - first:
+      213: -3365657157170276634
+    second: Player_Blade_Attack_2
+  - first:
+      213: 52544811256898078
+    second: Player_Blade_Attack_3
+  - first:
+      213: 5955816685018358794
+    second: Player_Blade_Attack_4
+  - first:
+      213: 1810802542887722753
+    second: Player_Blade_Attack_5
+  - first:
+      213: -459234193966261623
+    second: Player_Blade_Attack_6
+  - first:
+      213: 8096807010161217364
+    second: Player_Blade_Attack_7
+  - first:
+      213: -5310779416481564403
+    second: Player_Blade_Attack_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Blade_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.63793105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfbe03e9d1a719d0800000000000000
+      internalID: -2803594285825474604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271786c22705b990800000000000000
+      internalID: -7370977369180924121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65d17c5a8ca41d0800000000000000
+      internalID: -3365657157170276634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.25581396, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12e1c93a3daab000800000000000000
+      internalID: 52544811256898078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 15
+        width: 58
+        height: 43
+      alignment: 9
+      pivot: {x: 0.22413793, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a042dd148bf47a250800000000000000
+      internalID: 5955816685018358794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 15
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1851852, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f52379153412910800000000000000
+      internalID: 1810802542887722753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 15
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: 0.20408162, y: 0.03448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9de70fe870a9f0800000000000000
+      internalID: -459234193966261623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 15
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23255813, y: 0.03448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4d87b313ad5070800000000000000
+      internalID: 8096807010161217364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Blade_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 15
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23255813, y: 0.03448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09f82822425c46b0800000000000000
+      internalID: -5310779416481564403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

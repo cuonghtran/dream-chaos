@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2803721175317301443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7777361061394878000}
+  - component: {fileID: 4206723002642615959}
+  - component: {fileID: 128269431}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7777361061394878000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2803721175317301443}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 90.36141, y: 0.41427678, z: -9.938054}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!81 &4206723002642615959
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2803721175317301443}
+  m_Enabled: 1
+--- !u!114 &128269431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2803721175317301443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b50f921c948d44be8ba86f49016e3ef9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainMixerGroup: {fileID: 24300002, guid: 134989e78da0c46ba9947c2fc189e71b, type: 2}
+  sounds:
+  - clip: {fileID: 8300000, guid: 816e2dbe238bb4621847c19439c23518, type: 3}
+    source: {fileID: 0}
+    name: Button1
+    volume: 0.07
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 8c9fd0ef5db044545bdd24bb0884ef4d, type: 3}
+    source: {fileID: 0}
+    name: Button2
+    volume: 0.07
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 18548d907cc884497bdbe40862254102, type: 3}
+    source: {fileID: 0}
+    name: Buy_Successful_Store
+    volume: 0.3
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: cb565c2a72d31480d9f6c2e3e57cd8d9, type: 3}
+    source: {fileID: 0}
+    name: Click_Level_Node
+    volume: 0.18
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 851fb66f8b283480facdcfe861efdd25, type: 3}
+    source: {fileID: 0}
+    name: Click_Move_On_Map
+    volume: 0.13
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 47232ab6089534e2fac6d60187e5ffee, type: 3}
+    source: {fileID: 0}
+    name: Confirm_Sound
+    volume: 0.14
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: aee050f5cdc5040bbb0264d87dfb3ccf, type: 3}
+    source: {fileID: 0}
+    name: New_Item_Notif
+    volume: 0.19
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 5620e23fbf61141d78679fd78a41e63c, type: 3}
+    source: {fileID: 0}
+    name: Settings_Button
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 9cdb14786e39e45eb885c0be98618d0a, type: 3}
+    source: {fileID: 0}
+    name: Jump1
+    volume: 0.08
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 473e82cd8ccf642ae994ac9e8870f677, type: 3}
+    source: {fileID: 0}
+    name: Jump2
+    volume: 0.08
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 4528c481776e742f89d27cc29f47a6bd, type: 3}
+    source: {fileID: 0}
+    name: Player_Hurt1
+    volume: 0.12
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 15d9cc075125e4b5d81c39de6158838d, type: 3}
+    source: {fileID: 0}
+    name: Player_Hurt2
+    volume: 0.12
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 3aad52448563c4343b6961d716159ce9, type: 3}
+    source: {fileID: 0}
+    name: Player_Death
+    volume: 0.13
+    pitch: 0.92
+    loop: 0
+  - clip: {fileID: 8300000, guid: 6855dcbc1187540349144a0af525337f, type: 3}
+    source: {fileID: 0}
+    name: Victory
+    volume: 0.13
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: dfd5c48856fc7450485727e7a4d59150, type: 3}
+    source: {fileID: 0}
+    name: Collect_Star
+    volume: 0.11
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 7591db301b3d148c69b4ad7fddeec3e7, type: 3}
+    source: {fileID: 0}
+    name: Change_Weapon
+    volume: 0.11
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 718abf3ceae964cb3bd51092487fd20b, type: 3}
+    source: {fileID: 0}
+    name: Coin2
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 57c3831a9b9034203b667b576e4e6d67, type: 3}
+    source: {fileID: 0}
+    name: Coin3
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: c335b4202ec65484ea93b1a02f3d5f96, type: 3}
+    source: {fileID: 0}
+    name: Blade_Attack
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 53fee63b7c6474d8faa76bb8624d3892, type: 3}
+    source: {fileID: 0}
+    name: Blade_Firestrike
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: e3bf486cf53824b97bbb1322a9420ce9, type: 3}
+    source: {fileID: 0}
+    name: Plasma_Gun
+    volume: 0.08
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 97d53d8ebb85b435892b0dfbf17fbbb1, type: 3}
+    source: {fileID: 0}
+    name: Shuriken
+    volume: 0.07
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: b96b857dcc2b44f929340dfe15865111, type: 3}
+    source: {fileID: 0}
+    name: Mini_Bomb
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: f855ae5cec5de45cbbe311d3e252c09a, type: 3}
+    source: {fileID: 0}
+    name: Laser_Beam
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: dfb2cf852457a40abafc837e49a9730a, type: 3}
+    source: {fileID: 0}
+    name: Dash
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: e6d84742758624b13bb4d035d075c95c, type: 3}
+    source: {fileID: 0}
+    name: Bullet_Impact
+    volume: 0.02
+    pitch: 0.8
+    loop: 0
+  - clip: {fileID: 8300000, guid: 96042074cfaea492cb9f2c4a7cc70799, type: 3}
+    source: {fileID: 0}
+    name: Bomb_Explosion
+    volume: 0.04
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 26dd258d07a13427895cee4424fc5fd7, type: 3}
+    source: {fileID: 0}
+    name: Monsters_Death
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 36d4a710e55c842bb9be9cbb3ef021e2, type: 3}
+    source: {fileID: 0}
+    name: Archer_Arrow
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 1386e888c53834f848cf4d4dbdafbafd, type: 3}
+    source: {fileID: 0}
+    name: Bat_Fireball
+    volume: 0.1
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 5301e9998de4f42f3820559a9e77a232, type: 3}
+    source: {fileID: 0}
+    name: Boss1_Threaten
+    volume: 0.14
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 6aef3af0a7c404855bbe6848d2116349, type: 3}
+    source: {fileID: 0}
+    name: Boss2_Jump
+    volume: 0.11
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 2c03c77e3acc74d748a7ea367892d2bd, type: 3}
+    source: {fileID: 0}
+    name: Boss2_Missile
+    volume: 0.11
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: b4cab57652f7c4c2f8d117bfc28c6387, type: 3}
+    source: {fileID: 0}
+    name: Boss2_Threaten
+    volume: 0.14
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 787107f50c9e4475da15a67da9332b91, type: 3}
+    source: {fileID: 0}
+    name: Boss3_Beam
+    volume: 0.11
+    pitch: 1
+    loop: 1
+  - clip: {fileID: 8300000, guid: 79cae43fce57c4b92bd39e6db5e26c57, type: 3}
+    source: {fileID: 0}
+    name: Boss3_Lightning
+    volume: 0.11
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: d8e5fc234b19846cbb2c9ccc04a43a26, type: 3}
+    source: {fileID: 0}
+    name: Boss3_Teleport
+    volume: 0.12
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: bd8107c88a46849a9b6c51ab671a3304, type: 3}
+    source: {fileID: 0}
+    name: Boss3_Threaten
+    volume: 0.14
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 797e6126734364069abf76d332395f72, type: 3}
+    source: {fileID: 0}
+    name: Theme_Song
+    volume: 0.04
+    pitch: 0.95
+    loop: 1
+  - clip: {fileID: 8300000, guid: 0de63d195e8c841a69fa59018cb8c019, type: 3}
+    source: {fileID: 0}
+    name: Collect_Coin
+    volume: 0.05
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: f40565210888f4f3a8b52ce420713a24, type: 3}
+    source: {fileID: 0}
+    name: Drink_Potion
+    volume: 0.16
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: b25c15f6260cc465abb24e9a462df501, type: 3}
+    source: {fileID: 0}
+    name: Boss_Intro
+    volume: 0.08
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: c749e5cdf2a564662a093322d9228c88, type: 3}
+    source: {fileID: 0}
+    name: Boss_Main
+    volume: 0.08
+    pitch: 1
+    loop: 1
+  - clip: {fileID: 8300000, guid: 1e91697a98d834cc29ad7c6c6584278d, type: 3}
+    source: {fileID: 0}
+    name: Map_Theme
+    volume: 0.08
+    pitch: 1
+    loop: 1
+  - clip: {fileID: 8300000, guid: 95bc31e062a3b4d999f15acacf5cff66, type: 3}
+    source: {fileID: 0}
+    name: Warp_Jingle
+    volume: 0.12
+    pitch: 1
+    loop: 0
+  - clip: {fileID: 8300000, guid: 5322e99b3b0b948a0a4b3e19b5adf6c0, type: 3}
+    source: {fileID: 0}
+    name: Win_Jingle
+    volume: 0.13
+    pitch: 1
+    loop: 0
